@@ -1,7 +1,4 @@
 Welcome to the official GitHub organization of **CodeBridger**.
-
-## About Us
-
 Here, we specialize in developing workflow automations and bespoke AI solutions tailored to the needs of forward-thinking companies. Our mission is to transform businesses into AI-driven industry leaders by providing innovative and efficient solutions.
 
 ## Our Services
