@@ -17,8 +17,4 @@ For more details on our services and plans, visit our [website](https://codebrid
 
 ## Get in Touch
 
-We are eager to collaborate and help your business thrive in the AI era. Feel free to reach out to us through our [contact page](https://codebridger.co.uk/contact).
-
----
-
-*This README is maintained by the CodeBridger team. For any inquiries or issues, please contact us directly.*
+We are eager to collaborate and help your business thrive in the AI era. Feel free to reach out to us through our [contact page](https://codebridger.co.uk/#contact).
